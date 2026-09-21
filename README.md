@@ -11,14 +11,14 @@
 - **Recommended Environment:** Best used with Tampermonkey on the Microsoft Edge browser.
 - **Documentation:** Please refer to the [WebShell](https://github.com/FengPwner/WebShell) directory for related docs.
 - **Scripts:**
-    - [WebShell_PHP](https://github.com/FengPwner/FengKit/blob/main/Webshell_PHP%28Script_tampermonkey%29.user.js)
-    - [WebShell_JSP](https://github.com/FengPwner/FengKit/blob/main/Webshell_JSP%28Script_tampermonkey%29.user.js)
+    - [WebShell_PHP](https://github.com/FengPwner/FengKit/blob/main/Webshell_PHP.user.js)
+    - [WebShell_JSP](https://github.com/FengPwner/FengKit/blob/main/Webshell_JSP.user.js)
 
 ### 2. Website Path Scanner
 - **Status:** Due to limited resources, this script will not be updated in the short term.
 - **Mechanism:** Utilizes a built-in dictionary for path scanning.
 - **Script:**
-    - [Website Path Scanner](https://github.com/FengPwner/FengKit/blob/main/WebsitePathScanner%28Script_tampermonkey%29.user.js)
+    - [Website Path Scanner](https://github.com/FengPwner/FengKit/blob/main/WebsitePathScanner.user.js)
 
 ---
 
